@@ -1,0 +1,1 @@
+Minimalne drzewo rozpinające
